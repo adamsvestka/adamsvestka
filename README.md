@@ -54,5 +54,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="40" height="40"/>
 </p>
 
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adamsvestka&count_private=true&show_icons=true&hide_border=true" alt="adamsvestka" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsvestka&layout=compact&hide=html&hide_border=true" alt="adamsvestka" />
